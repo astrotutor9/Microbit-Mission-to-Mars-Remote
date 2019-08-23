@@ -6,6 +6,8 @@ also be used at PyconUK 2019 in Cardiff. So if you are interested in trying it o
 This exercise has been designed to enable you to work out what there is to be done. We are not giving you the answers, 
 only some guidance. We would like you to take the lead and persevere in getting this to work.
 
+<img src="DSC_2487.JPG" width=500 alt="Mission to Mars Rover">
+
 The Mission to Mars Rover has been provided with a drive system controlled by a MicroBit. This Microbit will receive 
 instructions from another using radio. Your task is to program this second Microbit and take control of the rover.
 
